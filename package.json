@@ -8,7 +8,7 @@
     "start": "npm run lite",
     "lite": "lite-server"
   },
-  
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rnjonesnc/git-test.git"
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/rnjonesnc/git-test#readme",
   "devDependencies": {
+    "minimist": ">=1.2.3.",
     "lite-server": "^2.3.0"
   }
 }
